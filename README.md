@@ -7,3 +7,5 @@
 # 2)
 ![image](https://github.com/umar-farooq-khan/LLM-aiding-Stock-Market/assets/52029764/daac23e0-3ab2-44ba-b84c-0a97c1cfb775)
 
+# LANGCHAIN CSV AGENT going through 40+ Datasets of a Specific Stock providing justifications with automated visualizations
+![csv](https://github.com/umar-farooq-khan/LLM-aiding-Stock-Market/assets/52029764/d94baaa9-b75a-4af7-8922-9e415ad1e58c)
